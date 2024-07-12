@@ -139,7 +139,9 @@ class _ClimaState extends State<Clima> {
             // ),
             label: 'Rains',
             icon: Icon(
-            
+              // child: InkWell(
+              //   onTap: () {},
+              // ),
               Icons.beach_access,
               color: Colors.black,
             ),
