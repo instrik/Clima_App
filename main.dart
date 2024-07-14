@@ -1,5 +1,16 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
-
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'HomePage.dart';
+import 'RainsPage.dart';
+import 'AlertsPage.dart';
+import 'FavoritesPage.dart';
+import 'DrawerPage.dart';
+import 'SearchPage.dart';
+import 'package:geolocator/geolocator.dart';
+import 'package:http/http.dart';
+import 'getLocation.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
 //trial comment 1
 void main() {
   runApp(AppBase());
