@@ -134,7 +134,7 @@ class _ClimaState extends State<Clima> {
             ),
           ),
           BottomNavigationBarItem(
-
+  // some code missed
               Icons.beach_access,
               color: Colors.black,
             ),
