@@ -134,7 +134,14 @@ class _ClimaState extends State<Clima> {
             ),
           ),
           BottomNavigationBarItem(
-  // some code missed
+            // Container(
+            //   child: GestureDetector(d),
+            // ),
+            label: 'Rains',
+            icon: Icon(
+              // child: InkWell(
+              //   onTap: () {},
+              // ),
               Icons.beach_access,
               color: Colors.black,
             ),
