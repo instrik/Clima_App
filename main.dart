@@ -12,7 +12,7 @@ import 'package:http/http.dart';
 import 'getLocation.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
-// trial commen 11
+// trial commen 12
 
 
 void main() {
@@ -160,6 +160,7 @@ class _ClimaState extends State<Clima> {
     );
   }
 }
+
 
 
 
