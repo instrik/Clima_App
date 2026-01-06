@@ -11,8 +11,8 @@ import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart';
 import 'getLocation.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-
-// trial comment 1 ghnbccbon  jj
+m
+// trial comment 1 ghnbccbon  jjmm
 
 void main() {
   runApp(AppBase());
@@ -159,6 +159,7 @@ class _ClimaState extends State<Clima> {
     );
   }
 }
+
 
 
 
