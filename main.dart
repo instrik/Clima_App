@@ -12,7 +12,7 @@ import 'package:http/http.dart';
 import 'getLocation.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
-// trial comment 3b
+// trial comment 3bv
 
 void main() {
   runApp(AppBase());
@@ -159,6 +159,7 @@ class _ClimaState extends State<Clima> {
     );
   }
 }
+
 
 
 
