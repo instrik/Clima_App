@@ -12,8 +12,8 @@ import 'package:http/http.dart';
 import 'getLocation.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
-// trial comment klkl/klknm.jkjbpooiouhgj
-kjkj
+// trial comment
+
 void main() {
   runApp(AppBase());
 }
