@@ -13,7 +13,7 @@ import 'getLocation.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 // trial comment kljkljljkn
-  kjkjkkjbnklj
+  kjkjkkjbnkljpkkjk
 void main() {
   runApp(AppBase());
 }
