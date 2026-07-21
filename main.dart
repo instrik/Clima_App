@@ -10,7 +10,8 @@ import 'SearchPage.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart';
 import 'getLocation.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart;
+
+import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 void main() {
   runApp(AppBase());
