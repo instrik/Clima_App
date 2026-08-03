@@ -11,8 +11,8 @@ import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart';
 import 'getLocation.dart';
 
-//trial commentjkhjlgkjhglkjkkcvb cvb
-jkhjlgkkjhnkljhvbndcvvgb
+//trial comment
+
 import 'package:flutter_spinkitkl/flutter_spinkit.dart';
 
 void main() {
