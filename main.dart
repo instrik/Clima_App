@@ -1,4 +1,4 @@
-serdt// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
+// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'HomePage.dart';
@@ -12,8 +12,8 @@ import 'package:http/http.dart';
 import 'getLocation.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
-//trial comment sdfgrtyjjl;k23r4terttr
-gergdtfh
+//trial comment
+
 void main() {
   runApp(AppBase());
 }
