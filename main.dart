@@ -13,7 +13,8 @@ import 'getLocation.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 //trial comment
-void main() {jh
+
+void main() {
   runApp(AppBase());
 }
 
